@@ -26,7 +26,7 @@ A lightweight, borderless desktop application wrapper for playing GTA 5 in your 
 
 ---
 - I know it looks suspicious because theres no source code but its all made with commands instead of code files so theres not really anything to upload.
-- Heres the VirusTotal link if you want to see https://www.virustotal.com/gui/file/789211bc9f9d925531440e30159175f68b44261336ac042ad72175ef2a4a9376?nocache=1
+- [Here](https://www.virustotal.com/gui/file/789211bc9f9d925531440e30159175f68b44261336ac042ad72175ef2a4a9376?nocache=1)s the VirusTotal link if you want to see, It's rated 1/68 because the installer isn't signed and the one security vendor that rates it as malicious uses ai to determine if something is malicious instead of having a database or something.
 ---
 
 ## License

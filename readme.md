@@ -26,6 +26,6 @@ A lightweight, borderless desktop application wrapper for playing GTA 5 in your 
 
 ---
 
-## 📄 License
+## License
 
 This repository contains setup scripts and build configurations released under the [MIT License](LICENSE). All game media and web assets belong to their respective copyright holders.

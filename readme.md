@@ -11,16 +11,16 @@ A lightweight, borderless desktop application wrapper for playing GTA 5 in your 
 
 ## ✨ Features
 
-- **Clean Desktop Experience:** Runs as a standalone application without browser tab bars, URL fields, or unwanted popups.
-- **Auto Fullscreen:** Starts directly in fullscreen mode for an immersive gameplay session.
-- **Windows Installer:** Packaged with Inno Setup into a standard Windows installer (`.exe`) that creates Start Menu and Desktop shortcuts.
+- **Only 360MB:** Everything comes from [Play GTA V.com](playgta5.com) so nothing is stored on your PC except for your save files and the 360MB needed to run the game.
+- **Instant startup:** Starts up in under a second without needing a launcher, the game itself does take 1-2 minutes to load.
+- **FPS counter:** Press = to view your fps in the top left corner.
 
 ---
 
 ## 🚀 Installation
 
 1. Go to the [Releases](https://github.com/matsdepe-rgb/gta5-lite/releases) page.
-2. Download the latest installer (`mysetup.exe` or `GTA5Lite_Setup.exe`).
+2. Download the latest installer (`gtavlite-setup-64x.exe`).
 3. Run the installer and follow the setup wizard.
 4. Launch **GTA V Lite** from your Desktop or Start Menu!
 

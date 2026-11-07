@@ -11,7 +11,7 @@ A lightweight, borderless desktop application wrapper for playing GTA 5 in your 
 
 ## ✨ Features
 
-- **Only 360MB:** Everything comes from [Play GTA V.com](https://www.playgta5.com) so nothing is stored on your PC except for your save files and the 360MB needed to run the game.
+- **Only 360MB:** Everything comes from [Play GTA V.com](https://playgta5.com/) so nothing is stored on your PC except for your save files and the 360MB needed to run the game.
 - **Instant startup:** Starts up in under a second without needing a launcher, the game itself does take 1-2 minutes to load.
 - **FPS counter:** Press = to view your fps in the top left corner.
 
